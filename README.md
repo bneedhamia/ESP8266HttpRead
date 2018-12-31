@@ -1,5 +1,6 @@
 # ESP8266HttpRead
 Arduino library to filter ESP8266 WiFi Shield messages from web server responses.
+OBSOLETE now that Arduino-compatible ESP8266 boards exist. See [Sparkfun's ESP8266 board](https://www.sparkfun.com/products/13804)
 
 Sparkfun offers an [ESP8266 WiFi Shield](https://www.sparkfun.com/products/13287) and an [Arduino library](https://github.com/sparkfun/SparkFun_ESP8266_AT_Arduino_Library) to communicate with it.
 
